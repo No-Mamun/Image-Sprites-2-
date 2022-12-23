@@ -1,0 +1,12 @@
+.social {
+              width: 62px;
+              height: 62px;
+              background-position: -16px -98px;
+              border-radius: 50%;
+              background-image: url(images/48-487892_icon-block-sprites-social-media.png);
+              background-repeat: no-repeat;
+              transition: 1s;
+          }
+.social:hover{
+              background-position: -16px -170px;
+}
